@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!%F0%9F%91%8B;I'm+Abhinav+Singh+Thakur" />
+</h1>
+
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Improving my development skills<br><br>
+🌱 **I’m currently learning:**  <br>Full Stack Development<br><br>
+ <!---👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
+🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>
+💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>
+⚡ **Fun fact:**  <br>I love creating content.--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav7230) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhinav_2620) 
